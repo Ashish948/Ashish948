@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python Full Stack projects<br>👯 I’m looking to collaborate on Open Source Projects<br><br>💬 Ask me about Backend Development<br>⚡ Fun fact is I Get Ideas from People Around Me
+🔭 I’m currently working on Python Full Stack projects<br>👯 I’m looking to collaborate on Open Source Projects<br>💬 Ask me about Backend Development<br>⚡ Fun fact is I Get Ideas from People Around Me
 
 
 ## 🌐 Socials:
